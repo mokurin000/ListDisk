@@ -1,0 +1,7 @@
+[project]
+name = "listdisk"
+version = "0.1.0"
+description = "List Disks/Volumes/Models on windows"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["pywin32>=308", "winsys>=1.2"]
